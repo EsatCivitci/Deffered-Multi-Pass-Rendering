@@ -10,7 +10,7 @@ Developed for **CENG 469: Computer Graphics II** at METU[cite: 4].
 
 Read the complete technical breakdown, pipeline architecture, and implementation details:
 
-👉 **[Read the Full Blog Post](https://esatcivitci.github.io/Deffered-Multi-Pass-Rendering/)**
+👉 **[Read the Full Blog Post]([https://esatcivitci.github.io/Deffered-Multi-Pass-Rendering/](https://github.com/EsatCivitci/Deffered-Multi-Pass-Rendering/blob/main/docs/index.md))**
 
 ---
 
